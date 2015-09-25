@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="Version"><![CDATA[X3.2]]></item>
+	<item id="Time"><![CDATA[2015-09-25 19:46]]></item>
+	<item id="From"><![CDATA[Discuz! Board (http://localhost/discuz/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[mt_wechat]]></item>
+			<item id="identifier"><![CDATA[mt_wechat]]></item>
+			<item id="description"><![CDATA[Î¢ÐÅ°Ù±¦Ïä]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[mt_wechat/]]></item>
+			<item id="copyright"><![CDATA[MT]]></item>
+			<item id="modules"><![CDATA[a:0:{}]]></item>
+			<item id="version"><![CDATA[1.0]]></item>
+		</item>
+		<item id="version"><![CDATA[X3.2]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[0]]></item>
+				<item id="title"><![CDATA[±à¼­Í¶Æ±ÓÃ»§×é]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[group]]></item>
+				<item id="type"><![CDATA[groups]]></item>
+				<item id="extra"><![CDATA[]]></item>
+				<item id="__value">
+					<item id="0"><![CDATA[1]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+		<item id="upgradefile"><![CDATA[upgrade.php]]></item>
+	</item>
+</root>
